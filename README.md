@@ -1,6 +1,6 @@
 # Bakery Management System with MCP SQLite Server
 
-A comprehensive bakery management system built using Model Context Protocol (MCP) and SQLite, running in Docker. This system helps bakery owners track inventory, analyze profitability, and optimize production. Created as part of the MIT MCP Hackathon tutorial (April 2025).
+A comprehensive bakery management system built using Model Context Protocol (MCP) and SQLite, running in Docker. This system helps bakery owners track inventory, analyze profitability, and optimize production. Created as part of the MIT MCP Hackathon tutorial (April 2025). 
 
 ## System Requirements
 
